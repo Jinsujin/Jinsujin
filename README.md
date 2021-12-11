@@ -17,9 +17,10 @@
 >  **2021.03.28 ~ 2021.04.18**
 - Swift 로 만든 iOS Application
 - `Realm`, `snapKit`
-### [MyInventory](https://apps.apple.com/kr/app/myinventory/id1520976206)
+<!-- ### [MyInventory](https://apps.apple.com/kr/app/myinventory/id1520976206)
 > 유통기한이 있는 물건을 위한 관리
 > 
 >  **2020.06 ~ 2021.07**
 - Swift 로 만든 iOS Application
 - `Realm`
+ -->
