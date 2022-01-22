@@ -24,3 +24,9 @@
 - Swift 로 만든 iOS Application
 - `Realm`
  -->
+
+<br/>
+
+<!-- [![Rosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinsujin)](https://github.com/anuraghazra/github-readme-stats) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinsujin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
