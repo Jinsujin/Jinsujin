@@ -10,6 +10,7 @@
 >  **2021.02.15 ~ 2021.03.08**  
 - Swift 로 만든 iOS Application 
 - `MVVM`, `Realm`, `snapKit`, `Toast-Swift`, `RxSwift`
+- [👉 Go Repository](https://github.com/Jinsujin/Bitnote)
 >  
 ### [COOKEE](https://apps.apple.com/kr/app/cookee/id1560499836)
 > 레시피 관리
