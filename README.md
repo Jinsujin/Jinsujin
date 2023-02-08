@@ -5,25 +5,25 @@
 
 # 📱 Released
 ### [Bitnote](https://apps.apple.com/kr/app/bitnote-백지-암기법/id1557135753)
-> 학습을 위한 암기 단어장
+> 학습을 위한 암기 단어장 iOS App
 > 
->  **2021.02.15 ~ 2021.03.08**  
-- Swift 로 만든 iOS Application 
-- `MVVM`, `Realm`, `snapKit`, `Toast-Swift`, `RxSwift`
+>  **2021.02.15 ~ today** 
+>   
+- `Swift`, `CocoaPods`, `Realm`, `snapKit`, `Toast-Swift`, `RxSwift`, `XCTest`
+- `MVVM`, `POP`
 - [👉 Go Repository](https://github.com/Jinsujin/Bitnote)
 >  
 ### [COOKEE](https://apps.apple.com/kr/app/cookee/id1560499836)
-> 레시피 관리
+> 레시피 관리 iOS App
 > 
 >  **2021.03.28 ~ 2021.04.18**
-- Swift 로 만든 iOS Application
-- `Realm`, `snapKit`
+- `Swift`, `CocoaPods`, `Realm`, `snapKit`
 <!-- ### [MyInventory](https://apps.apple.com/kr/app/myinventory/id1520976206)
 > 유통기한이 있는 물건을 위한 관리
 > 
 >  **2020.06 ~ 2021.07**
 - Swift 로 만든 iOS Application
-- `Realm`
+- `Swift`, `CocoaPods`, `Realm`
  -->
 
 <br/>
